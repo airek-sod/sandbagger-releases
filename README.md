@@ -16,6 +16,21 @@ Requires Windows 10 (1809+) or Windows 11, 64-bit.
 > The installer isn't code-signed yet, so Windows SmartScreen may warn on first run --
 > click **More info -> Run anyway**.
 
+## Features
+
+- **Combat Parser** -- parses your character log into fights with full DPS breakdowns:
+  fight list, per-participant overview, per-verb damage stats, tanking/incoming damage,
+  healing, and spell casts.
+- **Live overlay** -- real-time in-game combat tracking as fights happen, no log replay needed.
+- **Spell Browser** -- searchable database of every spell, with slot/class/effect details.
+- **Character lookup** -- gear and stats lookup (paper-doll view) plus a Proc/Effect Checker.
+- **Triggers** -- custom regex-based triggers with alerts, overlays, timers, and text-to-speech;
+  import from GINA/EQLogParser or share trigger sets with guildmates.
+- **Multi-character support** -- track several characters/log files at once from one sidebar.
+- **Web/mobile companion** -- view the same fight data, spell browser, and character lookups
+  from your phone or another PC over your LAN.
+- **Dramatic Summary** -- optional narrated recap of a fight in one of several writing styles.
+
 ## Updates
 
 Sandbagger checks for updates on startup and shows a banner when one is available. To
