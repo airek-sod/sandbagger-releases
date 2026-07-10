@@ -8,12 +8,12 @@ character/gear lookup, and customizable triggers.
 
 1. Open the **[latest release](https://github.com/airek-sod/sandbagger-releases/releases/latest)**.
 2. Download **`Sandbagger-win-Setup.exe`** and run it.
-3. That's it â€” the installer sets everything up and installs the required .NET 10 runtime
+3. That's it -- the installer sets everything up and installs the required .NET 10 runtime
    automatically if you don't already have it. Sandbagger then keeps itself up to date.
 
 Requires Windows 10 (1809+) or Windows 11, 64-bit.
 
-> The installer isn't code-signed yet, so Windows SmartScreen may warn on first run â€”
+> The installer isn't code-signed yet, so Windows SmartScreen may warn on first run --
 > click **More info -> Run anyway**.
 
 ## Updates
@@ -23,6 +23,6 @@ install it, open **Help -> Check for Updates** inside the app.
 
 ## License
 
-Sandbagger is free to use. Please download it **only from this official repository** â€”
+Sandbagger is free to use. Please download it **only from this official repository** --
 redistribution is not permitted. The full license and third-party open-source notices are
 included with the app (LICENSE and THIRD-PARTY-NOTICES.md next to the executable).
