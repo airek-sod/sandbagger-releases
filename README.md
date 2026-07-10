@@ -1,6 +1,6 @@
 # Sandbagger
 
-Sandbagger is a **free** Windows app for EverQuest (Shards of Dalaya). It parses your
+Sandbagger is a **free** Windows app for EverQuest (Dalaya). It parses your
 character log to show damage/DPS breakdowns, a live in-game overlay, a spell browser,
 character/gear lookup, and customizable triggers.
 
